@@ -71,3 +71,7 @@ La maintenance est la dernière étape du cycle de développement, mais elle est
 
 - https://en.wikipedia.org/wiki/Systems_development_life_cycle
 - https://resources.github.com/software-development/what-is-sdlc/
+
+## Utilisation de l'intelligence artificielle
+
+Cette synthèse a été révisée à l'aide de l'intelligence artificielle pour reformuler et paraphraser le contenu original.
